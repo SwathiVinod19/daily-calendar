@@ -1,7 +1,22 @@
 # daily-calendar
 A simple daily planner using html, css, javascript, JQuey, Bootstrap and Dayjs
 
-## Description of the page:
+## Acceptance Criteria:
+* WHEN I open the planner
+* THEN the current day is displayed at the top of the calendar
+* WHEN I scroll down
+* THEN I am presented with time blocks for standard business hours
+* WHEN I view the time blocks for that day
+* THEN each time block is color-coded to indicate whether it is in the past, present, or future
+* WHEN I click into a time block
+* THEN I can enter an event
+* WHEN I click the save button for that time block
+* THEN the text for that event is saved in local storage
+* WHEN I refresh the page
+* THEN the saved events persist
+
+## Description of the deployed daily calendar:
+
 This simple daily planner is meant for regular 9am - 5pm work schedule. 
 It allows the user to type and save their everyday work appointments and activities. 
 The user can type his/her appointments/activities in the respective time block and press the save icon on the right side. 
