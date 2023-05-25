@@ -1,5 +1,5 @@
 # daily-calendar
-A simple daily planner using html, css, javascript, JQuey, Bootstrao and Dayjs
+A simple daily planner using html, css, javascript, JQuey, Bootstrap and Dayjs
 
 ## Description of the page:
 This simple daily planner is meant for regular 9am - 5pm work schedule. 
@@ -23,8 +23,12 @@ The heading along with a display of the current time
 
 
 #### link to the deployed page:
+https://swathivinod19.github.io/daily-calendar/
+
+Enjoy!
 
 
 ##### Acknowledgements
+
 I am very grateful to my tutors, TA and peers for the learning and support
 I watched videos in YouTube and class videos to understand jQuery format as I found it very challenging to use.
