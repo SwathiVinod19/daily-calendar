@@ -45,5 +45,5 @@ Enjoy!
 
 ##### Acknowledgements
 
-I am very grateful to my tutors, TA and peers for the learning and support
+I am very grateful to my tutors, TA, friends and peers for the learning and support
 I watched videos in YouTube and class videos to understand jQuery format as I found it very challenging to use.
